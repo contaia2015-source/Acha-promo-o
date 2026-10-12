@@ -37,4 +37,3 @@ jobs:
         with:
           name: AchaPromo-debug-apk
           path: AchaPromo/app/build/outputs/apk/debug/*.apk
-          
