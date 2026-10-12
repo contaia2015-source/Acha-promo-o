@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descarregar repositório
+      - name: Descarregar repositorio
         uses: actions/checkout@v4
 
       - name: Configurar Java 17
